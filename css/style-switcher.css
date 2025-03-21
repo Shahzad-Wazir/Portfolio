@@ -63,7 +63,7 @@
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    border: 1px solid red;
+    border: 1px solid rgb(107, 105, 105);
     cursor: pointer;
 }
 
@@ -72,17 +72,17 @@
 }
 
 .style-switcher .color-2 {
-    background: lightblue;
+    background: blue;
 }
 
 .style-switcher .color-3 {
-    background: lightcoral;
+    background: green;
 }
 
 .style-switcher .color-4 {
-    background: lightcyan;
+    background: purple;
 }
 
 .style-switcher .color-5 {
-    background: lightgray;
+    background: orange;
 }
